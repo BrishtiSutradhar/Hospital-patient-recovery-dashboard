@@ -43,5 +43,5 @@ The dashboard utilizes advanced Excel functions and pivot table modeling to brea
 
 ## 📂  Files Included
 ```text
-├──  `Excel file with complete Hospital Patient Recovery Dashboard(original, with data)'
+├── Excel file with complete Hospital Patient Recovery Dashboard(original, with data)
 └── README.md                                 # Project documentation and summary
