@@ -40,14 +40,6 @@ The dashboard utilizes advanced Excel functions and pivot table modeling to brea
 * **Descriptive Statistics:** Calculated statistical variance utilizing `AVERAGE`, `MIN`, and `STDEV` across sample medical outcomes.
 
 ---
-Hospital_Patient_Recovery_Dashboard.xlsx
-https://github.com/BrishtiSutradhar/Hospital-Patient-Recovery-Dashboard/blob/main/Hospital_Patient_Recovery_Dashboard.xlsx
-
-hospital_patient_treatment_dataset.csv
-https://github.com/BrishtiSutradhar/Hospital-Patient-Recovery-Dashboard/blob/main/hospital_patient_treatment_dataset.csv
-
-Hospital_Patient_Recovery_Overview_Dashboard.PNG
-https://github.com/BrishtiSutradhar/Hospital-Patient-Recovery-Dashboard/blob/main/Hospital_Patient_Recovery_Overview_Dashboard.PNG
 
 
 ## 📁  Files Included
@@ -61,9 +53,10 @@ https://github.com/BrishtiSutradhar/Hospital-Patient-Recovery-Dashboard/blob/mai
 
 ## 📝 Screenshots / Samples
 
-Show what the dashboard looks like. - ![Alt text](https://github.com/username/repo/assets/image.png)
-Preview visuals available in [`Export/Bank Loan Report Summary Dashboard.png`]! & [`Export/Bank Loan Report Overview Dashboard.png`]
-https://github.com/BrishtiSutradhar/Hospital-Patient-Recovery-Dashboard/blob/main/Hospital_Patient_Recovery_Overview_Dashboard.PNG
+Show what the dashboard looks like.
+Preview visuals available in
+-  <a href='https://github.com/BrishtiSutradhar/Hospital-Patient-Recovery-Dashboard/blob/main/Hospital_Patient_Recovery_Overview_Dashboard.PNG'> Hospital_Patient_Recovery_Overview_Dashboard.PNG </a>
+
 
 <img width="1131" height="576" alt="Screenshot 2026-02-13 212813" 
   src="https://github.com/BrishtiSutradhar/Hospital-Patient-Recovery-Dashboard/blob/main/Hospital_Patient_Recovery_Overview_Dashboard.PNG" />
